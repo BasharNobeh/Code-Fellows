@@ -1,10 +1,5 @@
 # Code-Fellows
 # Header
-> " python" 
->> " hello"
-
-
-> hey
 
 
 ### image
